@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -13,3 +14,8 @@ class Composite:
 
 #this is test
 m=Composite(Component())
+=======
+print("hello world")
+print("hello Again")
+print("Hello again in 2023")
+>>>>>>> fcc8e111ea853c473782eb48ea94a7e28412f1fe
